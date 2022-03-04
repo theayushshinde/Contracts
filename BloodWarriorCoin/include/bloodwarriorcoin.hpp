@@ -1,16 +1,3 @@
-/*
- * @file
- * @author  (C) 2020 by eoscostarica [ https://eoscostarica.io ]
- * @version 1.1.0
- *
- * @section DESCRIPTION
- *  Header file for the declaration of all functions related with the bloodwarriorcoin contract
- *
- * Smart contract bloodwarriorcoin for  EOSIO blockchains
- *    WebSite:        https://eoscostarica.io
- *    GitHub:         https://github.com/eoscostarica
- *
- */
 #pragma once
 
 #include <eosio/asset.hpp>
